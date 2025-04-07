@@ -1,0 +1,28 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CCK2FAB4-SE-47-04",
+			"name": "ARSITEKTUR DAN DESAIN PERANGKAT LUNAK SE-47-04 [SMS]"
+		},
+		{
+			"code": "CCK2HAB4-SE-47-04",
+			"name": "BASIS DATA SE-47-04 [VLY]"
+		},
+		{
+			"code": "CCK2IAB3-SE-47-04",
+			"name": "DASAR JARINGAN KOMPUTER SE-47-04 [FAZ]"
+		},
+		{
+			"code": "CCK2LAB3-SE-47-04",
+			"name": "KECERDASAN BUATAN SE-47-04 [FFS]"
+		},
+		{
+			"code": "CCK2JAC2-SE-47-04",
+			"name": "PROYEK TINGKAT II SE-47-04 [UII]"
+		}
+	]
+}
