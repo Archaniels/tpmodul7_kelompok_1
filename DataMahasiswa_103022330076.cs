@@ -37,7 +37,7 @@ public class DataMahasiswa_103022330076
 
 public class ProgRAM
 {
-	public static void Main(string[] args)
+    public static void Main(string[] args)
     {
         DataMahasiswa_103022330076 dataMahasiswa = new DataMahasiswa_103022330076();
         dataMahasiswa.ReadJSON();

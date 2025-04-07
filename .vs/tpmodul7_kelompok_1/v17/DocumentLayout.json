@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul7_kelompok_1\\tpmodul7_kelompok_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE22FC45-07B6-4B45-9D57-FC1E96DA68FB}|tpmodul7_kelompok_1.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul7_kelompok_1\\tpmodul7_kelompok_1\\datamahasiswa_103022330076.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE22FC45-07B6-4B45-9D57-FC1E96DA68FB}|tpmodul7_kelompok_1.csproj|solutionrelative:datamahasiswa_103022330076.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE22FC45-07B6-4B45-9D57-FC1E96DA68FB}|tpmodul7_kelompok_1.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul7_kelompok_1\\tpmodul7_kelompok_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE22FC45-07B6-4B45-9D57-FC1E96DA68FB}|tpmodul7_kelompok_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataMahasiswa_103022330076.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul7_kelompok_1\\tpmodul7_kelompok_1\\DataMahasiswa_103022330076.cs",
+              "RelativeDocumentMoniker": "DataMahasiswa_103022330076.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul7_kelompok_1\\tpmodul7_kelompok_1\\DataMahasiswa_103022330076.cs",
+              "RelativeToolTip": "DataMahasiswa_103022330076.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:59:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul7_kelompok_1\\tpmodul7_kelompok_1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
